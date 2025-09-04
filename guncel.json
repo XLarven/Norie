@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "İlk sürüm.",
+  "pub_date": "2025-09-04T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "BURAYA_SIG_DOSYASINDAN_İMZA",
+      "url": "https://github.com/XLarven/Norie/releases/download/v0.1.0/conic-launcher_0.1.0_x64-setup.exe"
+    }
+  }
+}

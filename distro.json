@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "discord": {
+    "clientId": "",
+    "smallImageText": "",
+    "smallImageKey": ""
+  },
+  "servers": [
+    {
+      "id": "flowblock-1.21.11",
+      "name": "FlowBlock 1.21.11",
+      "description": "Vanilla Minecraft 1.21.11",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.11",
+      "discord": {
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
+      },
+      "mainServer": true,
+      "autoconnect": false,
+
+      "modules": [
+        {
+          "id": "net.minecraft:client:1.21.11",
+          "name": "Minecraft",
+          "type": "Minecraft",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://launchermeta.mojang.com/v1/packages/manifest.json"
+          },
+          "subModules": []
+        }
+      ]
+    }
+  ]
+}
